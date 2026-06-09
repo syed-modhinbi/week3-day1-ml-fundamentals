@@ -1,0 +1,40 @@
+ml_workflow:
+1. Data Collection
+•Data collection is the process of gathering information from various sources.
+•The data should be relevant to the problem.
+•Good quality data improves model performance.
+
+2. Data Cleaning
+•Data cleaning removes errors and missing values.
+•It helps improve data quality.
+•Clean data leads to better predictions.
+
+3. Feature Selection
+•Features are input variables used for prediction.
+•Choosing important features improves accuracy.
+•Irrelevant features can reduce performance.
+
+4. Train-Test Split
+•The dataset is divided into training and testing sets.
+•Training data teaches the model.
+•Testing data evaluates model performance.
+
+5. Model Training
+•The algorithm learns patterns from training data.
+•Linear Regression finds relationships between variables.
+•The model creates a mathematical equation.
+
+6. Testing
+•Testing checks how well the model performs.
+•The model predicts values on unseen data.
+•Results are compared with actual values.
+
+7. Evaluation
+•Evaluation measures prediction quality.
+•Metrics such as MAE and R² are used.
+•Higher accuracy indicates better performance.
+
+8. Prediction
+•Prediction uses the trained model on new data.
+•The model estimates future values.
+•Predictions help in decision-making.
